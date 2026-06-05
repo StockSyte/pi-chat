@@ -13,7 +13,7 @@
 		"discord",
 		"extension"
 	],
-	"license": "MIT",
+	"license": "Apache-2.0",
 	"pi": {
 		"extensions": [
 			"./index.ts"
